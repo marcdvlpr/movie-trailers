@@ -11,9 +11,5 @@
     "url": "git+https://github.com/mdossantosdev/reddit-search-app.git"
   },
   "author": "",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mdossantosdev/reddit-search-app/issues"
-  },
-  "homepage": "https://github.com/mdossantosdev/reddit-search-app#readme"
+  "license": "MIT"
 }
