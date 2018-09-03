@@ -1,5 +1,5 @@
 export default {
-  search: function (searchTerm, searchLimit, sortBy) {
+  search: function (searchTerm, sortBy, searchLimit) {
     return fetch(
       `http://www.reddit.com/search.json?q=${searchTerm}&sort=${sortBy}&limit=${searchLimit}`
     )
